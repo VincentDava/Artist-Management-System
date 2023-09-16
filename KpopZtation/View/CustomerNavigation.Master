@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="CustomerNavigation.master.cs" Inherits="KpopZtation.CustomerNavigation" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:Button ID="HomeBtn" runat="server" Text="Home" onclick="HomeBtn_Click"/>
+        <asp:Button ID="CartBtn" runat="server" Text="Cart" onclick="CartBtn_Click"/>
+        <asp:Button ID="TransactionBtn" runat="server" Text="Transaction" onclick="TransactionBtn_Click"/>
+        <asp:Button ID="UpdateProfileBtn" runat="server" Text="Update Profile" onclick="UpdateProfileBtn_Click"/>
+        <asp:Button ID="LogoutBtn" runat="server" Text="Logout" onclick="LogoutBtn_Click"/>
+        <br />
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

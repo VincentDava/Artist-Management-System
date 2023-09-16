@@ -1,0 +1,383 @@
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\KpopZtation.dll.config
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\KpopZtation.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\KpopZtation.pdb
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\csc.exe
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\csc.exe.config
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\csc.rsp
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\csi.exe
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\csi.exe.config
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\csi.rsp
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.AppContext.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Console.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\vbc.exe
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\vbc.exe.config
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\vbc.rsp
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\EntityFramework.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\EntityFramework.xml
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CopyComplete
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\obj\Debug\KpopZtation.dll
+C:\Users\user\Documents\Binus\Pattern Software Design\Lab PSD\Project\KpopZtation\KpopZtation\obj\Debug\KpopZtation.pdb
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\obj\Debug\KpopZtation.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\obj\Debug\KpopZtation.pdb
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\KpopZtation.dll.config
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\KpopZtation.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\KpopZtation.pdb
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\csc.exe
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\csc.exe.config
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\csc.rsp
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\csi.exe
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\csi.exe.config
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\csi.rsp
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.AppContext.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Console.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Net.Http.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.ValueTuple.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\vbc.exe
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\vbc.exe.config
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\vbc.rsp
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportSource.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.Shared.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.Web.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\EntityFramework.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\stdole.dll
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\EntityFramework.xml
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.xml
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vince\OneDrive\Pictures\KpopZtation\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CopyComplete
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\KpopZtation.dll.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\KpopZtation.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\KpopZtation.pdb
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\csc.exe
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\csc.exe.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\csc.rsp
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\csi.exe
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\csi.exe.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\csi.rsp
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.AppContext.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Console.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Net.Http.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.ValueTuple.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\vbc.exe
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\vbc.exe.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\vbc.rsp
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportSource.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.Shared.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.Web.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\EntityFramework.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\stdole.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\EntityFramework.xml
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.xml
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.AssemblyReference.cache
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CopyComplete
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\obj\Debug\KpopZtation.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_d740d0e0-0df2-11ee-acb6-f3c858c3c5ff\KpopZtation\KpopZtation\obj\Debug\KpopZtation.pdb
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\KpopZtation.dll.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\KpopZtation.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\KpopZtation.pdb
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\csc.exe
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\csc.exe.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\csc.rsp
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\csi.exe
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\csi.exe.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\csi.rsp
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.AppContext.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Console.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Net.Http.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.ValueTuple.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\vbc.exe
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\vbc.exe.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\vbc.rsp
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportSource.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.Shared.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.Web.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\EntityFramework.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\stdole.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\EntityFramework.xml
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.xml
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.AssemblyReference.cache
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CoreCompileInputs.cache
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CopyComplete
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\obj\Debug\KpopZtation.dll
+C:\Users\vince\Downloads\2501979556_BL01_COMP6114001_c95b3680-0df9-11ee-8b37-db888db1ed9f (1)\KpopZtation\KpopZtation\obj\Debug\KpopZtation.pdb
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\KpopZtation.dll.config
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\KpopZtation.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\KpopZtation.pdb
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\csc.exe
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\csc.exe.config
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\csc.rsp
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\csi.exe
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\csi.exe.config
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\csi.rsp
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.AppContext.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Console.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Net.Http.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.ValueTuple.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\vbc.exe
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\vbc.exe.config
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\vbc.rsp
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportSource.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.Shared.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.Web.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\EntityFramework.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\stdole.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\EntityFramework.xml
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\EntityFramework.SqlServer.xml
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.AssemblyReference.cache
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CoreCompileInputs.cache
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\obj\Debug\KpopZtation.csproj.CopyComplete
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\obj\Debug\KpopZtation.dll
+C:\Users\vince\OneDrive\Documents\portofolio\KpopZtation\KpopZtation\obj\Debug\KpopZtation.pdb
